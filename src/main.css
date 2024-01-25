@@ -1,0 +1,23 @@
+*{
+    font-family: Poppins;
+}
+
+.Nav-bar{
+    display: flex;
+    text-align: center;
+    justify-content:center;
+    background-color: rgb(193, 255, 255);
+    
+}
+
+.Nav-bar li{
+    justify-content: center;
+}
+
+.Nav-bar ul{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    gap: 50px;
+    justify-content: center;
+}

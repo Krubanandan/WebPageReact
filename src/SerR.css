@@ -1,0 +1,38 @@
+.SerR{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    place-items: center;
+    gap: 25px;
+}
+
+.SerV{
+    border-radius: 25px;
+    padding-top: 15px;
+    text-align: center;
+    /* display: grid;
+    place-items: center;
+    grid-template-rows: repeat(1,1fr); */
+    height: 200px;
+    width: 200px;
+    background-color:  rgb(210, 241, 241);
+}
+
+img{
+    width: 700px;
+   
+    
+}
+
+.image{
+    text-align: center;
+}
+
+.Details{
+    margin-top: 2cm;
+    width: 150px;
+    height: 50px;
+    border-style:none ;
+    background-color: rgb(89, 255, 255);
+    color: white;
+
+}
